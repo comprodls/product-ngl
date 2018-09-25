@@ -1,0 +1,1421 @@
+{
+	"meta": {
+		"author": "EltPub1 Admin",
+		"title": "Pathways: Listening And Speaking Foundations – Second Edition",
+		"code": "test_elt",
+		"thumbnailsmall": "",
+		"thumbnaillarge": "",
+		"producttype": "courseware",
+		"description": "",
+		"schema": 1,
+		"ext_product_id": "1234"
+	},
+	"definition": {
+		"learning-objectives": {
+			"Learning Objective 1": {
+				"learning-objectives": {}
+			}
+		},
+		"tags": {
+			"Grammar": {
+				"tags": {
+					"Adjectives": {
+						"tags": {}
+					},
+					"Present simple": {
+						"tags": {}
+					},
+					"Present continuous": {
+						"tags": {}
+					},
+					"Future continuous": {
+						"tags": {}
+					},
+					"Verb types": {
+						"tags": {}
+					}
+				}
+			},
+			"Skills": {
+				"tags": {
+					"Vocabulary": {
+						"tags": {}
+					},
+					"Listening": {
+						"tags": {}
+					},
+					"Grammar": {
+						"tags": {}
+					},
+					"Pronunciation": {
+						"tags": {}
+					},
+					"Reading": {
+						"tags": {}
+					},
+					"Writing": {
+						"tags": {}
+					},
+					"Speaking": {
+						"tags": {}
+					}
+				}
+			},
+			"Vocabulary Topic": {
+				"tags": {
+					"Affixes - prefixes and suffixes": {
+						"tags": {}
+					},
+					"Activities, verbs": {
+						"tags": {}
+					},
+					"Manners": {
+						"tags": {}
+					},
+					"Science": {
+						"tags": {}
+					},
+					"Technology": {
+						"tags": {}
+					},
+					"Education": {
+						"tags": {}
+					},
+					"Animals and plants": {
+						"tags": {}
+					},
+					"The environment": {
+						"tags": {}
+					},
+					"Transport": {
+						"tags": {}
+					}
+				}
+			},
+			"Content Type": {
+				"tags": {
+					"Graded Practice": {
+						"tags": {}
+					},
+					"Ungraded Practice": {
+						"tags": {}
+					},
+					"Assigned Only": {
+						"tags": {}
+					},
+					"Test": {
+						"tags": {}
+					},
+					"Diagnostic test": {
+						"tags": {}
+					},
+					"Manual Graded": {
+						"tags": {}
+					},
+					"Sri Speak": {
+						"tags": {}
+					}
+				}
+			},
+			"Level": {
+				"tags": {
+					"Intermediate": {
+						"tags": {}
+					},
+					"Pre-Intermediate": {
+						"tags": {}
+					},
+					"Advanced": {
+						"tags": {}
+					},
+					"Level 1": {
+						"tags": {}
+					},
+					"Level 2": {
+						"tags": {}
+					},
+					"Level 3": {
+						"tags": {}
+					},
+					"Level 4": {
+						"tags": {}
+					},
+					"Level 5": {
+						"tags": {}
+					},
+					"Upper Intermediate": {
+						"tags": {}
+					},
+					"Elementary": {
+						"tags": {}
+					},
+					"Beginner": {
+						"tags": {}
+					}
+				}
+			},
+			"Product Series or Family": {
+				"tags": {
+					"National Geographic": {
+						"tags": {}
+					},
+					"MyTimeEnglish": {
+						"tags": {}
+					},
+					"World English": {
+						"tags": {}
+					},
+					"World Link": {
+						"tags": {}
+					},
+					"Pathways": {
+						"tags": {}
+					},
+					"HELLO": {
+						"tags": {}
+					},
+					"MEO": {
+						"tags": {}
+					},
+					"Grammar Cafe": {
+						"tags": {}
+					},
+					"Milestones": {
+						"tags": {}
+					}
+				}
+			}
+		}
+	},
+	"items": {
+		"default": [
+			{
+				"name": "Unit 01",
+				"item-type": "folder",
+				"item-code": "1525157694613",
+				"sub-type": "default",
+				"items": [
+					{
+						"name": "Lesson A",
+						"item-type": "folder",
+						"item-code": "1525157694613/1525157697372",
+						"sub-type": "default",
+						"items": [
+							{
+								"name": "Vocabulary 1",
+								"item-type": "resource",
+								"item-code": "1525157694613/1525157697372/1525157821567",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_0001",
+								"tracking": true
+							},
+							{
+								"name": "Vocabulary 2",
+								"item-type": "resource",
+								"item-code": "1525157694613/1525157697372/1525157884432",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_0002",
+								"tracking": true
+							},
+							{
+								"name": "Vocabulary Skill",
+								"item-type": "resource",
+								"item-code": "1525157694613/1525157697372/1525157911322",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_0003",
+								"tracking": true
+							},
+							{
+								"name": "Listen",
+								"item-type": "resource",
+								"item-code": "1525157694613/1525157697372/1525157936022",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_0004",
+								"tracking": true
+							},
+							{
+								"name": "Note-Taking Skill",
+								"item-type": "resource",
+								"item-code": "1525157694613/1525157697372/1525157944445",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_0005",
+								"tracking": true
+							},
+							{
+								"name": "Grammar for speaking 1",
+								"item-type": "resource",
+								"item-code": "1525157694613/1525157697372/1525157974258",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_0006",
+								"tracking": true
+							},
+							{
+								"name": "Grammar for speaking 2",
+								"item-type": "resource",
+								"item-code": "1525157694613/1525157697372/1525158007727",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_0007",
+								"tracking": true
+							},
+							{
+								"name": "Speaking Skill",
+								"item-type": "resource",
+								"item-code": "1525157694613/1525157697372/1525158028843",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_0008",
+								"tracking": true
+							}
+						]
+					},
+					{
+						"name": "Video",
+						"item-type": "folder",
+						"item-code": "1525157694613/1525158086261",
+						"sub-type": "default",
+						"items": [
+							{
+								"name": "Watch",
+								"item-type": "resource",
+								"item-code": "1525157694613/1525158086261/1525158117975",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_0009",
+								"tracking": true
+							},
+							{
+								"name": "Respond",
+								"item-type": "resource",
+								"item-code": "1525157694613/1525158086261/1525158126951",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00010",
+								"tracking": true
+							}
+						]
+					},
+					{
+						"name": "Lesson B",
+						"item-type": "folder",
+						"item-code": "1525157694613/1525157706387",
+						"sub-type": "default",
+						"items": [
+							{
+								"name": "Vocabulary 1",
+								"item-type": "resource",
+								"item-code": "1525157694613/1525157706387/1525158178729",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00011",
+								"tracking": true
+							},
+							{
+								"name": "Vocabulary 2",
+								"item-type": "resource",
+								"item-code": "1525157694613/1525157706387/1525158200088",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00012",
+								"tracking": true
+							},
+							{
+								"name": "Listen",
+								"item-type": "resource",
+								"item-code": "1525157694613/1525157706387/1525158261318",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00013",
+								"tracking": true
+							}
+						]
+					},
+					{
+						"name": "Review",
+						"item-type": "folder",
+						"item-code": "1525157694613/1525158488734",
+						"sub-type": "default",
+						"items": [
+							{
+								"name": "Review",
+								"item-type": "resource",
+								"item-code": "1525157694613/1525158488734/1525158521845",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00014",
+								"tracking": true
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Unit 02",
+				"item-type": "folder",
+				"item-code": "1525158738810",
+				"sub-type": "default",
+				"items": [
+					{
+						"name": "Lesson A",
+						"item-type": "folder",
+						"item-code": "1525158738810/1525158744543",
+						"sub-type": "default",
+						"items": [
+							{
+								"name": "Vocabulary 1",
+								"item-type": "resource",
+								"item-code": "1525158738810/1525158744543/1525158819300",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00015",
+								"tracking": true
+							},
+							{
+								"name": "Vocabulary 2",
+								"item-type": "resource",
+								"item-code": "1525158738810/1525158744543/1525158846326",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00016",
+								"tracking": true
+							},
+							{
+								"name": "Vocabulary Skill",
+								"item-type": "resource",
+								"item-code": "1525158738810/1525158744543/1525158983658",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00017",
+								"tracking": true
+							},
+							{
+								"name": "Listen",
+								"item-type": "resource",
+								"item-code": "1525158738810/1525158744543/1525159125737",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00018",
+								"tracking": true
+							},
+							{
+								"name": "Listening Skill",
+								"item-type": "resource",
+								"item-code": "1525158738810/1525158744543/1525162796029",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00019",
+								"tracking": true
+							},
+							{
+								"name": "Grammar for Speaking 1",
+								"item-type": "resource",
+								"item-code": "1525158738810/1525158744543/1525162886624",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00020",
+								"tracking": true
+							},
+							{
+								"name": "Grammar for Speaking 2",
+								"item-type": "resource",
+								"item-code": "1525158738810/1525158744543/1525162910879",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00021",
+								"tracking": true
+							},
+							{
+								"name": "Pronunciation 1",
+								"item-type": "resource",
+								"item-code": "1525158738810/1525158744543/1525162922154",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00022",
+								"tracking": true
+							},
+							{
+								"name": "Pronunciation 2",
+								"item-type": "resource",
+								"item-code": "1525158738810/1525158744543/1525162964422",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00023",
+								"tracking": true
+							}
+						]
+					},
+					{
+						"name": "Video",
+						"item-type": "folder",
+						"item-code": "1525158738810/1525158764637",
+						"sub-type": "default",
+						"items": [
+							{
+								"name": "Watch",
+								"item-type": "resource",
+								"item-code": "1525158738810/1525158764637/1525163167992",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00024",
+								"tracking": true
+							},
+							{
+								"name": "Respond",
+								"item-type": "resource",
+								"item-code": "1525158738810/1525158764637/1525168561728",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00025",
+								"tracking": true
+							}
+						]
+					},
+					{
+						"name": "Lesson B",
+						"item-type": "folder",
+						"item-code": "1525158738810/1525158769372",
+						"sub-type": "default",
+						"items": [
+							{
+								"name": "Vocabulary 1",
+								"item-type": "resource",
+								"item-code": "1525158738810/1525158769372/1525169030711",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00026",
+								"tracking": true
+							},
+							{
+								"name": "Vocabulary 2",
+								"item-type": "resource",
+								"item-code": "1525158738810/1525158769372/1525169107598",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00027",
+								"tracking": true
+							},
+							{
+								"name": "Listen",
+								"item-type": "resource",
+								"item-code": "1525158738810/1525158769372/1525169118536",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00028",
+								"tracking": true
+							},
+							{
+								"name": "Note-Taking Skill",
+								"item-type": "resource",
+								"item-code": "1525158738810/1525158769372/1525169136663",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00029",
+								"tracking": true
+							},
+							{
+								"name": "Speaking Skill",
+								"item-type": "resource",
+								"item-code": "1525158738810/1525158769372/1525169202762",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00030",
+								"tracking": true
+							}
+						]
+					},
+					{
+						"name": "Review",
+						"item-type": "folder",
+						"item-code": "1525158738810/1525158777749",
+						"sub-type": "default",
+						"items": [
+							{
+								"name": "Review",
+								"item-type": "resource",
+								"item-code": "1525158738810/1525158777749/1525169440665",
+								"pass-score": 0.7,
+								"contributes-to-completion": true,
+								"resource": "RE_00031",
+								"tracking": true
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Unit 03",
+				"item-type": "folder",
+				"item-code": "1536653980511",
+				"sub-type": "default",
+				"items": [
+					{
+						"name": "Lesson A",
+						"item-type": "folder",
+						"item-code": "1536653980511/1536654002377",
+						"sub-type": "default",
+						"items": []
+					},
+					{
+						"name": "Video",
+						"item-type": "folder",
+						"item-code": "1536653980511/1536654001592",
+						"sub-type": "default",
+						"items": []
+					},
+					{
+						"name": "Lesson B",
+						"item-type": "folder",
+						"item-code": "1536653980511/1536654000511",
+						"sub-type": "default",
+						"items": []
+					},
+					{
+						"name": "Review",
+						"item-type": "folder",
+						"item-code": "1536653980511/1536654000986",
+						"sub-type": "default",
+						"items": []
+					}
+				]
+			},
+			{
+				"name": "Unit 04",
+				"item-type": "folder",
+				"item-code": "1536654020794",
+				"sub-type": "default",
+				"items": [
+					{
+						"name": "Lesson A",
+						"item-type": "folder",
+						"item-code": "1536654020794/1536654027085",
+						"sub-type": "default",
+						"items": []
+					},
+					{
+						"name": "Video",
+						"item-type": "folder",
+						"item-code": "1536654020794/1536654032105",
+						"sub-type": "default",
+						"items": []
+					},
+					{
+						"name": "Lesson B",
+						"item-type": "folder",
+						"item-code": "1536654020794/1536654030992",
+						"sub-type": "default",
+						"items": []
+					},
+					{
+						"name": "Review",
+						"item-type": "folder",
+						"item-code": "1536654020794/1536654032199",
+						"sub-type": "default",
+						"items": []
+					}
+				]
+			},
+			{
+				"name": "Unit 05",
+				"item-type": "folder",
+				"item-code": "1536654049429",
+				"sub-type": "default",
+				"items": [
+					{
+						"name": "Lesson A",
+						"item-type": "folder",
+						"item-code": "1536654049429/1536654061577",
+						"sub-type": "default",
+						"items": []
+					},
+					{
+						"name": "Vedio",
+						"item-type": "folder",
+						"item-code": "1536654049429/1536654069260",
+						"sub-type": "default",
+						"items": []
+					},
+					{
+						"name": "Lesson B",
+						"item-type": "folder",
+						"item-code": "1536654049429/1536654073857",
+						"sub-type": "default",
+						"items": []
+					},
+					{
+						"name": "Review",
+						"item-type": "folder",
+						"item-code": "1536654049429/1536654072720",
+						"sub-type": "default",
+						"items": []
+					}
+				]
+			},
+			{
+				"name": "Unit 06",
+				"item-type": "folder",
+				"item-code": "1536654091874",
+				"sub-type": "default",
+				"items": [
+					{
+						"name": "Lesson A",
+						"item-type": "folder",
+						"item-code": "1536654091874/1536654099967",
+						"sub-type": "default",
+						"items": []
+					},
+					{
+						"name": "Video",
+						"item-type": "folder",
+						"item-code": "1536654091874/1536654099303",
+						"sub-type": "default",
+						"items": []
+					},
+					{
+						"name": "Lesson B",
+						"item-type": "folder",
+						"item-code": "1536654091874/1536654105576",
+						"sub-type": "default",
+						"items": []
+					},
+					{
+						"name": "Review",
+						"item-type": "folder",
+						"item-code": "1536654091874/1536654109229",
+						"sub-type": "default",
+						"items": []
+					}
+				]
+			},
+			{
+				"name": "Unit 07",
+				"item-type": "folder",
+				"item-code": "1536654131398",
+				"sub-type": "default",
+				"items": [
+					{
+						"name": "Lesson A",
+						"item-type": "folder",
+						"item-code": "1536654131398/1536654137636",
+						"sub-type": "default",
+						"items": []
+					},
+					{
+						"name": "Video",
+						"item-type": "folder",
+						"item-code": "1536654131398/1536654138275",
+						"sub-type": "default",
+						"items": []
+					},
+					{
+						"name": "Lesson B",
+						"item-type": "folder",
+						"item-code": "1536654131398/1536654146325",
+						"sub-type": "default",
+						"items": []
+					},
+					{
+						"name": "Review",
+						"item-type": "folder",
+						"item-code": "1536654131398/1536654144354",
+						"sub-type": "default",
+						"items": []
+					}
+				]
+			},
+			{
+				"name": "Unit 08",
+				"item-type": "folder",
+				"item-code": "1536654131255",
+				"sub-type": "default",
+				"items": [
+					{
+						"name": "Lesson A",
+						"item-type": "folder",
+						"item-code": "1536654131255/1536654153974",
+						"sub-type": "default",
+						"items": []
+					},
+					{
+						"name": "Video",
+						"item-type": "folder",
+						"item-code": "1536654131255/1536654164930",
+						"sub-type": "default",
+						"items": []
+					},
+					{
+						"name": "Lesson B",
+						"item-type": "folder",
+						"item-code": "1536654131255/1536654167396",
+						"sub-type": "default",
+						"items": []
+					},
+					{
+						"name": "Review",
+						"item-type": "folder",
+						"item-code": "1536654131255/1536654171521",
+						"sub-type": "default",
+						"items": []
+					}
+				]
+			},
+			{
+				"name": "Other Activity Types",
+				"item-type": "folder",
+				"item-code": "1536668347049",
+				"sub-type": "default",
+				"items": [
+					{
+						"name": "Sample Video",
+						"item-type": "resource",
+						"item-code": "1536668347049/1537880562552",
+						"pass-score": 0.7,
+						"contributes-to-completion": true,
+						"resource": "RE_00032",
+						"tracking": true
+					},
+					{
+						"name": "Sample zip archive",
+						"item-type": "resource",
+						"item-code": "1536668347049/1537880570649",
+						"pass-score": 0.7,
+						"contributes-to-completion": true,
+						"resource": "RE_00033",
+						"tracking": true
+					},
+					{
+						"name": "Sample PDF Document",
+						"item-type": "resource",
+						"item-code": "1536668347049/1537880582836",
+						"pass-score": 0.7,
+						"contributes-to-completion": true,
+						"resource": "RE_00034",
+						"tracking": true
+					},
+					{
+						"name": "Sample Spreadsheet",
+						"item-type": "resource",
+						"item-code": "1536668347049/1537880593800",
+						"pass-score": 0.7,
+						"contributes-to-completion": true,
+						"resource": "RE_00035",
+						"tracking": true
+					},
+					{
+						"name": "Sample Word Document",
+						"item-type": "resource",
+						"item-code": "1536668347049/1537880601133",
+						"pass-score": 0.7,
+						"contributes-to-completion": true,
+						"resource": "RE_00036",
+						"tracking": true
+					},
+					{
+						"name": "Sample Audio file",
+						"item-type": "resource",
+						"item-code": "1536668347049/1537880613114",
+						"pass-score": 0.7,
+						"contributes-to-completion": true,
+						"resource": "RE_00037",
+						"tracking": true
+					}
+				]
+			}
+		]
+	},
+	"resources": {
+		"generic": {
+			"RE_0001": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_01_01_01.xml",
+					"filename": "activities/xml/H_6_FIBMS/PWLFh_F_01_01_01.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_01_01_01.xml",
+						"bookAbbr": "PATH_H_FDN2D_U10"
+					}
+				}
+			},
+			"RE_0002": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_01_01_02.xml",
+					"filename": "activities/xml/H_6_FIBMS/PWLFh_F_01_01_02.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_01_01_02.xml",
+						"bookAbbr": "PATH_H_FDN2D_U10"
+					}
+				}
+			},
+			"RE_0003": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/HGLT/1.0.57/js/hglt.js&layout=engines/layouts/hglt.html&contentFile=activities/xml/H_5_HGLT/PWLFh_F_01_01_04.xml",
+					"filename": "activities/xml/H_5_HGLT/PWLFh_F_01_01_04.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/HGLT/1.0.57/js/hglt.js&layout=engines/layouts/hglt.html&contentFile=activities/xml/H_5_HGLT/PWLFh_F_01_01_04.xml",
+						"bookAbbr": "PATH_H_FDN2D_U10"
+					}
+				}
+			},
+			"RE_0004": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/MCMS/1.0.57/js/mcms.js&layout=engines/layouts/mcms.html&contentFile=activities/xml/H_4_MCMS/PWLFh_F_01_01_05.xml",
+					"filename": "activities/xml/H_4_MCMS/PWLFh_F_01_01_05.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/MCMS/1.0.57/js/mcms.js&layout=engines/layouts/mcms.html&contentFile=activities/xml/H_4_MCMS/PWLFh_F_01_01_05.xml",
+						"bookAbbr": "PATH_H_FDN2D_U10"
+					}
+				}
+			},
+			"RE_0005": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/SORT/1.0.57/js/sort.js&layout=engines/layouts/sort.html&contentFile=activities/xml/H_12_SORT/PWLFh_F_01_01_06.xml",
+					"filename": "activities/xml/H_12_SORT/PWLFh_F_01_01_06.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/SORT/1.0.57/js/sort.js&layout=engines/layouts/sort.html&contentFile=activities/xml/H_12_SORT/PWLFh_F_01_01_06.xml",
+						"bookAbbr": "PATH_H_FDN2D_U10"
+					}
+				}
+			},
+			"RE_0006": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/HGLT/1.0.57/js/hglt.js&layout=engines/layouts/hglt.html&contentFile=activities/xml/H_5_HGLT/PWLFh_F_01_01_07.xml",
+					"filename": "activities/xml/H_5_HGLT/PWLFh_F_01_01_07.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/HGLT/1.0.57/js/hglt.js&layout=engines/layouts/hglt.html&contentFile=activities/xml/H_5_HGLT/PWLFh_F_01_01_07.xml",
+						"bookAbbr": "PATH_H_FDN2D_U10"
+					}
+				}
+			},
+			"RE_0007": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_01_01_08.xml",
+					"filename": "activities/xml/H_6_FIBMS/PWLFh_F_01_01_08.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_01_01_08.xml",
+						"bookAbbr": "PATH_H_FDN2D_U10"
+					}
+				}
+			},
+			"RE_0008": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/SRIMCDYN/1.0.57/js/srimcdyn.js&layout=engines/layouts/srimcdyn.html&contentFile=activities/xml/H_32_SRIMCDYN/PWLFh_F_01_01_10.xml",
+					"filename": "activities/xml/H_32_SRIMCDYN/PWLFh_F_01_01_10.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/SRIMCDYN/1.0.57/js/srimcdyn.js&layout=engines/layouts/srimcdyn.html&contentFile=activities/xml/H_32_SRIMCDYN/PWLFh_F_01_01_10.xml",
+						"bookAbbr": "PATH_H_FDN2D_U10"
+					}
+				}
+			},
+			"RE_0009": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/MCMS/1.0.57/js/mcms.js&layout=engines/layouts/mcms.html&contentFile=activities/xml/H_4_MCMS/PWLFh_F_01_02_01.xml",
+					"filename": "activities/xml/H_4_MCMS/PWLFh_F_01_02_01.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/MCMS/1.0.57/js/mcms.js&layout=engines/layouts/mcms.html&contentFile=activities/xml/H_4_MCMS/PWLFh_F_01_02_01.xml",
+						"bookAbbr": "PATH_H_FDN2D_U10"
+					}
+				}
+			},
+			"RE_00010": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=SPEAK&index=index.html&engine=engines/SPK/1.0.57/js/spk.js&layout=engines/layouts/spk.html&contentFile=activities/xml/H_7_SPK/PWLFh_F_01_02_02.xml",
+					"filename": "activities/xml/H_7_SPK/PWLFh_F_01_02_02.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=SPEAK&index=index.html&engine=engines/SPK/1.0.57/js/spk.js&layout=engines/layouts/spk.html&contentFile=activities/xml/H_7_SPK/PWLFh_F_01_02_02.xml",
+						"bookAbbr": "PATH_H_FDN2D_U10"
+					}
+				}
+			},
+			"RE_00011": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/MCMS/1.0.57/js/mcms.js&layout=engines/layouts/mcms.html&contentFile=activities/xml/H_4_MCMS/PWLFh_F_01_03_01.xml",
+					"filename": "activities/xml/H_4_MCMS/PWLFh_F_01_03_01.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/MCMS/1.0.57/js/mcms.js&layout=engines/layouts/mcms.html&contentFile=activities/xml/H_4_MCMS/PWLFh_F_01_03_01.xml",
+						"bookAbbr": "PATH_H_FDN2D_U10"
+					}
+				}
+			},
+			"RE_00012": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_01_03_02.xml",
+					"filename": "activities/xml/H_6_FIBMS/PWLFh_F_01_03_02.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_01_03_02.xml",
+						"bookAbbr": "PATH_H_FDN2D_U10"
+					}
+				}
+			},
+			"RE_00013": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/MCMS/1.0.57/js/mcms.js&layout=engines/layouts/mcms.html&contentFile=activities/xml/H_4_MCMS/PWLFh_F_01_03_04.xml",
+					"filename": "activities/xml/H_4_MCMS/PWLFh_F_01_03_04.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/MCMS/1.0.57/js/mcms.js&layout=engines/layouts/mcms.html&contentFile=activities/xml/H_4_MCMS/PWLFh_F_01_03_04.xml",
+						"bookAbbr": "PATH_H_FDN2D_U10"
+					}
+				}
+			},
+			"RE_00014": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/QUIZ/1.0.57/js/quiz.js&layout=engines/layouts/quiz.html&contentFile=activities/xml/H_20_QUIZ/PWLFh_F_01_04_01.xml",
+					"filename": "activities/xml/H_20_QUIZ/PWLFh_F_01_04_01.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/QUIZ/1.0.57/js/quiz.js&layout=engines/layouts/quiz.html&contentFile=activities/xml/H_20_QUIZ/PWLFh_F_01_04_01.xml",
+						"bookAbbr": "PATH_H_FDN2D_U10"
+					}
+				}
+			},
+			"RE_00015": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_02_01_01.xml",
+					"filename": "activities/xml/H_6_FIBMS/PWLFh_F_02_01_01.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_02_01_01.xml",
+						"bookAbbr": "PATH_H_FDN2D_U20"
+					}
+				}
+			},
+			"RE_00016": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_02_01_02.xml",
+					"filename": "activities/xml/H_6_FIBMS/PWLFh_F_02_01_02.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_02_01_02.xml",
+						"bookAbbr": "PATH_H_FDN2D_U20"
+					}
+				}
+			},
+			"RE_00017": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/MATCHDD/1.0.57/js/matchdd.js&layout=engines/layouts/matchdd.html&contentFile=activities/xml/H_13_MATCHDD/PWLFh_F_02_01_04.xml",
+					"filename": "activities/xml/H_13_MATCHDD/PWLFh_F_02_01_04.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/MATCHDD/1.0.57/js/matchdd.js&layout=engines/layouts/matchdd.html&contentFile=activities/xml/H_13_MATCHDD/PWLFh_F_02_01_04.xml",
+						"bookAbbr": "PATH_H_FDN2D_U20"
+					}
+				}
+			},
+			"RE_00018": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/MCMS/1.0.57/js/mcms.js&layout=engines/layouts/mcms.html&contentFile=activities/xml/H_4_MCMS/PWLFh_F_02_01_05.xml",
+					"filename": "activities/xml/H_4_MCMS/PWLFh_F_02_01_05.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/MCMS/1.0.57/js/mcms.js&layout=engines/layouts/mcms.html&contentFile=activities/xml/H_4_MCMS/PWLFh_F_02_01_05.xml",
+						"bookAbbr": "PATH_H_FDN2D_U20"
+					}
+				}
+			},
+			"RE_00019": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_02_01_06.xml",
+					"filename": "activities/xml/H_6_FIBMS/PWLFh_F_02_01_06.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_02_01_06.xml",
+						"bookAbbr": "PATH_H_FDN2D_U20"
+					}
+				}
+			},
+			"RE_00020": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/HGLT/1.0.57/js/hglt.js&layout=engines/layouts/hglt.html&contentFile=activities/xml/H_5_HGLT/PWLFh_F_02_01_07.xml",
+					"filename": "activities/xml/H_5_HGLT/PWLFh_F_02_01_07.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/HGLT/1.0.57/js/hglt.js&layout=engines/layouts/hglt.html&contentFile=activities/xml/H_5_HGLT/PWLFh_F_02_01_07.xml",
+						"bookAbbr": "PATH_H_FDN2D_U20"
+					}
+				}
+			},
+			"RE_00021": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_02_01_08.xml",
+					"filename": "activities/xml/H_6_FIBMS/PWLFh_F_02_01_08.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_02_01_08.xml",
+						"bookAbbr": "PATH_H_FDN2D_U20"
+					}
+				}
+			},
+			"RE_00022": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/MCSS/1.0.57/js/mcss.js&layout=engines/layouts/mcss.html&contentFile=activities/xml/H_25_MCSS/PWLFh_F_02_01_10.xml",
+					"filename": "activities/xml/H_25_MCSS/PWLFh_F_02_01_10.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/MCSS/1.0.57/js/mcss.js&layout=engines/layouts/mcss.html&contentFile=activities/xml/H_25_MCSS/PWLFh_F_02_01_10.xml",
+						"bookAbbr": "PATH_H_FDN2D_U20"
+					}
+				}
+			},
+			"RE_00023": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=SPEAK&index=index.html&engine=engines/DIAG/1.0.57/js/diag.js&layout=engines/layouts/diag.html&contentFile=activities/xml/H_8_DIAG/PWLFh_F_02_01_11.xml",
+					"filename": "activities/xml/H_8_DIAG/PWLFh_F_02_01_11.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=SPEAK&index=index.html&engine=engines/DIAG/1.0.57/js/diag.js&layout=engines/layouts/diag.html&contentFile=activities/xml/H_8_DIAG/PWLFh_F_02_01_11.xml",
+						"bookAbbr": "PATH_H_FDN2D_U20"
+					}
+				}
+			},
+			"RE_00024": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_02_02_01.xml",
+					"filename": "activities/xml/H_6_FIBMS/PWLFh_F_02_02_01.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_02_02_01.xml",
+						"bookAbbr": "PATH_H_FDN2D_U20"
+					}
+				}
+			},
+			"RE_00025": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=SPEAK&index=index.html&engine=engines/SPK/1.0.57/js/spk.js&layout=engines/layouts/spk.html&contentFile=activities/xml/H_7_SPK/PWLFh_F_02_02_02.xml",
+					"filename": "activities/xml/H_7_SPK/PWLFh_F_02_02_02.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=SPEAK&index=index.html&engine=engines/SPK/1.0.57/js/spk.js&layout=engines/layouts/spk.html&contentFile=activities/xml/H_7_SPK/PWLFh_F_02_02_02.xml",
+						"bookAbbr": "PATH_H_FDN2D_U20"
+					}
+				}
+			},
+			"RE_00026": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [
+					"Grammar/Adjectives",
+					"Skills/Writing"
+				],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_02_03_01.xml",
+					"filename": "activities/xml/H_6_FIBMS/PWLFh_F_02_03_01.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_02_03_01.xml"
+					}
+				}
+			},
+			"RE_00027": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [
+					"Grammar/Present simple",
+					"Skills/Reading"
+				],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_02_03_02.xml",
+					"filename": "activities/xml/H_6_FIBMS/PWLFh_F_02_03_02.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=DIAG&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_02_03_02.xml"
+					}
+				}
+			},
+			"RE_00028": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [
+					"Grammar/Present simple",
+					"Skills/Reading"
+				],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/MCMS/1.0.57/js/mcms.js&layout=engines/layouts/mcms.html&contentFile=activities/xml/H_4_MCMS/PWLFh_F_02_03_04.xml",
+					"filename": "activities/xml/H_4_MCMS/PWLFh_F_02_03_04.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/MCMS/1.0.57/js/mcms.js&layout=engines/layouts/mcms.html&contentFile=activities/xml/H_4_MCMS/PWLFh_F_02_03_04.xml"
+					}
+				}
+			},
+			"RE_00029": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [
+					"Grammar/Future continuous",
+					"Skills/Reading"
+				],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_02_03_05.xml",
+					"filename": "activities/xml/H_6_FIBMS/PWLFh_F_02_03_05.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/FIBMS/1.0.57/js/fibms.js&layout=engines/layouts/fibms.html&contentFile=activities/xml/H_6_FIBMS/PWLFh_F_02_03_05.xml"
+					}
+				}
+			},
+			"RE_00030": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [
+					"Grammar/Present continuous",
+					"Skills/Speaking"
+				],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=SPEAK&index=index.html&engine=engines/SPK/1.0.57/js/spk.js&layout=engines/layouts/spk.html&contentFile=activities/xml/H_7_SPK/PWLFh_F_02_03_06.xml",
+					"filename": "activities/xml/H_7_SPK/PWLFh_F_02_03_06.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&itype=SPEAK&index=index.html&engine=engines/SPK/1.0.57/js/spk.js&layout=engines/layouts/spk.html&contentFile=activities/xml/H_7_SPK/PWLFh_F_02_03_06.xml"
+					}
+				}
+			},
+			"RE_00031": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "ext-myelt",
+				"ext-myelt": {
+					"url": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/QUIZ/1.0.57/js/quiz.js&layout=engines/layouts/quiz.html&contentFile=activities/xml/H_20_QUIZ/PWLFh_F_02_04_01.xml",
+					"filename": "activities/xml/H_20_QUIZ/PWLFh_F_02_04_01.xml",
+					"filesize": "",
+					"myelt-options": {
+						"launch-params": "?contentRoot=&baseBook=PATH_H_FDN2D&index=index.html&engine=engines/QUIZ/1.0.57/js/quiz.js&layout=engines/layouts/quiz.html&contentFile=activities/xml/H_20_QUIZ/PWLFh_F_02_04_01.xml",
+						"bookAbbr": "PATH_H_FDN2D_U20"
+					}
+				}
+			},
+			"RE_00032": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "video",
+				"description": "",
+				"video": {
+					"url": "video/1537880562552/Sample Video.mp4",
+					"filename": "Sample Video.mp4",
+					"filesize": 1573484
+				}
+			},
+			"RE_00033": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "zip",
+				"description": "",
+				"zip": {
+					"url": "zip/1537880570649/Sample zip archive.zip",
+					"filename": "Sample zip archive.zip",
+					"filesize": 51159
+				}
+			},
+			"RE_00034": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "pdf",
+				"description": "",
+				"pdf": {
+					"url": "pdf/1537880582836/Sample PDF Document.pdf",
+					"filename": "Sample PDF Document.pdf",
+					"filesize": 52349
+				}
+			},
+			"RE_00035": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "excel",
+				"description": "",
+				"excel": {
+					"url": "excel/1537880593800/test file.xlsx",
+					"filename": "test file.xlsx",
+					"filesize": 8766
+				}
+			},
+			"RE_00036": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "word",
+				"description": "",
+				"word": {
+					"url": "word/1537880601133/Sample Word Document.docx",
+					"filename": "Sample Word Document.docx",
+					"filesize": 190705
+				}
+			},
+			"RE_00037": {
+				"learning-objectives": [
+					"Learning Objective 1"
+				],
+				"tags": [],
+				"sub-type": "audio",
+				"description": "",
+				"audio": {
+					"url": "audio/1537880613114/Sample Audio file.mp3",
+					"filename": "Sample Audio file.mp3",
+					"filesize": 1087849
+				}
+			}
+		},
+		"test": {},
+		"ebook": {}
+	}
+}
